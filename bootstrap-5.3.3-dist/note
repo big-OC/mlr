@@ -1,0 +1,47 @@
+for background-color:
+primary-blue
+secondary-gray
+danger-red
+success-green
+warning-yellow
+info-skyblue
+dark
+light
+black
+white
+subtle- for reducing quality of any color values
+
+for text color:text-value
+for margin: m-1 to 5 and so on
+for padding: p-1 to 5 and so on
+for margin top: mt
+for margin bottom: mb
+for padding top: pt
+for padding bottom: pb
+for margin left: ms
+for margin right: me
+for padding left: ps
+for padding right: pe
+for font-size: fs The higher the number, the smaller the text. 1 is the biggest font size in bootstrap
+mx- margin on the x-axis(margin left and right)
+my- margin on the y-axis(margin top and bottom)
+px- padding on the x-axis(padding left and right)
+py- padding on the y-axis(padding top and bottom)
+for width: w-(we have only 25, 50, 75, and 100 only as width value in bootstrap)
+for aligning tex center: text-center
+for text decoration: text-decoration:none
+for border: we declare border first: (border border-warning border-2) the declaration could be border top, bottom, start, or end eg (border-start border suceess border-1),etc
+for border thickness: border-opacity-10%, 25%, 50%, 75%
+for border radius: rounded-5
+for background gradient: we declare the color we need to use first (bg-primary bg-gradient)
+for opacity: bg-opacity-20,50,75,100
+for display: d-value eg d-inline d-block d-flex
+for breakpoints: d-{sm,md,lg,xl,xxl}-{display flex}
+lg:laptop
+xl:tv
+xxl:large tv screen
+sm:phone screen
+md:  tablet screen
+xs: normal phone screen
+gutters: they are column gaps. a space between two column content. to use: gx-1
+for h1-h6: display-1 to 6

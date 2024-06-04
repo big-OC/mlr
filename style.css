@@ -1,0 +1,12 @@
+#btn1:focus{
+background-color: black;
+color: white;
+}
+.but{
+    background-color: rgb(184, 175, 175);
+    width: 200px;
+    border: none;
+}
+.imgbg{
+    background-color: white;
+}
